@@ -1,0 +1,2 @@
+# Predictive-Analytics-of-Indian-Stock-Prices-using-Linear-Regression
+Predict stock prices via OLS Linear Regression and test key statistical assumptions. This project runs diagnostic checks for multicollinearity (VIF), homoskedasticity (Breusch-Pagan), error normality (Jarque-Bera), autocorrelation (Ljung-Box), and linearity (RESET). It benchmarks the AI against a naive forecast to verify true predictive skill.
